@@ -1,0 +1,162 @@
+<div class="container">
+    <div class="row">
+        <div class="header">
+            <span class="first-letter">R</span>aymond E. Chandler III
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="sidebar">
+            <div class="contact">
+                <h3><span class="first-letter">C</span>ontact</h3>
+                <p>1813 Pearl Street, Apartment 1
+                <br />Covington, Kentucky 41014</p>
+
+                <p>p. (407) 590-1416
+                <br />twit. @raymondchandler
+                <br />git. @kitanata</p>
+            </div>
+        </div>
+
+        <div class="main">
+            <h3><span class="first-letter">Q</span>ualifications</h3>
+            <ul class="qual">
+                <li>Accomplished, innovative entrepreneur and full-stack software developer with strong technical expertise in web development, data visualization, and educational technology.</li>
+                <li>Known for ability to effortlessly absorb cutting edge technical knowledge, drive business vision, champion concepts and win teams over to creative solutions.</li>
+                <li>Established and respected leader of the Python community in Columbus, Ohio.</li>
+                <li>Respected member of the entrepreneur community in Columbus, Ohio.</li>
+                <li>Often invited to speak at regional technical conferences on entrepreneurship, data visualization, and web development.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="sidebar">
+            <div class="skills">
+                <h3><span class="first-letter">S</span>kills</h3>
+                <ul>
+                    <li>Python</li>
+                    <li>Ruby</li>
+                    <li>JavaScript</li>
+                    <li>CoffeeScript</li>
+                    <li>HTML5/HAML</li>
+                    <li>CSS3/LESS/SASS</li>
+                    <li>Latex</li>
+                    <li>Django</li>
+                    <li>Flask</li>
+                    <li>Rails</li>
+                    <li>Sinatra</li>
+                    <li>Backbone.js</li>
+                    <li>PostgreSQL</li>
+                    <li>SQLite3</li>
+                    <li>MongoDB</li>
+                    <li>Redis</li>
+                    <li>Couchbase</li>
+                    <li>GNU/Linux/BSD</li>
+                    <li>Project Management</li>
+                    <li>Technical Strategy</li>
+                    <li>Startups and Entreprenuership</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="main">
+            <div class="row">
+                <h3><span class="first-letter">E</span>xperience</h3>
+            </div>
+
+            <div class="row">
+                <div class="project">
+                    <h2>Co-Founder; CTO <span class="pull-right">TutorGen, Inc -- 2014 - Present</span></h2>
+                    <ul>
+                        <li>Co-Founded TutorGen, Inc. A company specializing in Machine-Learning-as-a-Service for educational technology software.</li>
+                        <li>Working with our partners at Carnegie Learning and Carnegie Mellon University to develop and test technolgoy.</li>
+                        <li>Guiding the technical specificiations of the platform into a highly scalable solution.</li>
+                        <li>Mentoring and coaching senior and junior developers on a variety of technologies.</li>
+                        <li>Implemented Agile Software management practices to estimate product delivery.</li>
+                        <li>Implemented best practices including TDD, Code Review, Pairing, CI, and automated deployments.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="project">
+                    <h2>Founder <span class="pull-right">SpeakerMotion, Inc -- 2011 - 2013</span></h2>
+                    <ul>
+                        <li>Founded SpkrBar.com as a community for conference speakers to share themselves and their talks online in a collaborative environment.</li>
+                        <li>Launched an online platform that makes it easy for event planners to manage, review, and schedule speaker submissions to their events.</li>
+                        <li>Grew to 200 users and worked closely with 6 regional technical conferences to perfect the software.</li>
+                        <li>Worked tirelessly to validate product-market fit, and performed extensive customer interviews.</li>
+                        <li>Worked closely with local sales, marketing and design teams to grow business.</li>
+                        <li>Closed up shop due to low sales, poor market interest, and high customer acquisition costs.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="project">
+                    <h2>Founder <span class="pull-right">Agile Hog LLC -- 2011 - 2014</span></h2>
+                    <ul>
+                        <li>Advised over 30 Columbus, Ohio startups and entrepreneurs on technical and business strategy.</li>
+                        <li>Worked with small business teams on recruiting top talent, and implementing Agile practices.</li>
+                        <li>Specializing in rapid prototype development in Ruby, Python, BackboneJS, and AngularJS.</li>
+                        <li>Closed up shop to co-found TutorGen, Inc. a prior client with funding and traction.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="project">
+                    <h2>Senior Web Developer <span class="pull-right">CallCopy Inc. -- 2011-2013</span></h2>
+                    <ul>
+                        <li>Reverse engineered front-end codebase from the ground up with minimal documentation.</li>
+                        <li>Refactored a half working backbone.js implementation into a well crafted, well tested, body of code.</li>
+                        <li>Mentored junior members of the team on best practices for building and maintaining quality code.</li>
+                        <li>Worked with a team of the best and brightest developers in Columbus.</li>
+                        <li>Helped to create one of the most beautiful looking products of my career.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="project">
+                    <h2>Prototype Design Engineer <span class="pull-right">eTech Ohio -- 2009-2011</span></h2>
+                    <ul>
+                        <li>Created prototype to address the need to securely log when private information of an Ohio resident is accessed by a state employee.</li>
+                        <li>Created a online, visualization platform to analyze geospatially mapped educational statistics.</li>
+                        <li>Developed a data agnostic analysis tool for finding correlations between state initiatives and student performance in K-12 education.</li>
+                        <li>Successfully drove technical strategy change away from Java and towards Python and Django.</li>
+                        <li>Taught Python and Django to team via a series of classes over the course of 2 months.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="project">
+                    <h2>Software Engineer I <span class="pull-right">Northrop Grumman -- 2007-2009</span></h2>
+                    <ul>
+                        <li>Integrated video game industry standards into mission critical visualization software.</li>
+                        <li>Created a fixed pipeline, scene graph based, graphics engine built upon OpenGL 2.2.</li>
+                        <li>Reverse engineers and parsed very large amounts of proprietary battlefield identification data from many different military vendors.</li>
+                        <li>Developed process for quickly loading and displaying very large, hi-resolution military grade maps.</p>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <h3><span class="first-letter">P</span>resentations</h3>
+                <ul class="presents">
+                    <li>Southwest Ohio Givecamp 2014 - Team Lead for Impact 100 Global Charity</li>
+                    <li>PyOhio 2014 - Communications Director and Board Member</li>
+                    <li>Columbus Code Camp 2013 - <a href="http://www.spkrbar.com/talk/45">Gamification: A Lesson From Board Game Design</a></li>
+                    <li>Central Ohio Python Group, September 2013 - <a href="http://www.spkrbar.com/talk/99">Introduction to Django REST Framework</a></li>
+                    <li>Columbus JavaScript Group, August 2013 - <a href="http://www.spkrbar.com/talk/9">Introduction to Leaflet.js</a></li>
+                    <li>PyOhio 2013 - <a href="http://www.spkrbar.com/talk/11">Super Advanced Python</a></li>
+                    <li>PyOhio 2012 - Django Bootcamp (8-hour)</li>
+                    <li>Ohio Educational Technology Convention 2012 - Game Design Fundamentals Workshop</li>
+                </ul>
+            </div>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>

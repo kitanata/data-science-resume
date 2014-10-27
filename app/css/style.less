@@ -1,0 +1,92 @@
+@import 'grid.less';
+@darkGray: #dedede;
+@lightGray: #efefef;
+@sailFont: 'Sail';
+@kiteFont: "Kite One";
+@joseFont: "Josefin Sans";
+@crimFont: "Crimson Text";
+
+body {
+    background: #024C68;
+    font-family: @crimFont;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.container {
+    width: 960px;
+    margin: 20px auto 40px auto;
+    background: white;
+
+    -webkit-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 1);
+    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 1);
+
+    .header {
+        .first-letter {
+            font-family: @sailFont;
+            font-size: 72px;
+        }
+        font-family: @kiteFont;
+        font-size: 22px;
+        color: white;
+        background: #FF8500;
+        padding: 10px;
+    }
+
+    .sidebar {
+        .column(3);
+
+        padding-top: 20px;
+
+        .skills, .contact {
+            padding: 0px 10px;
+
+            p {
+                padding-left: 30px;
+            }
+
+            ul {
+                padding-left: 50px;
+            }
+
+        }
+    }
+
+    .main {
+        .column(9);
+
+        padding-top: 20px;
+
+        .project {
+            padding-left: 30px;
+            padding-bottom: 20px;
+
+            ul {
+                padding-left: 20px;
+            }
+        }
+    }
+}
+
+h3 {
+    .first-letter {
+        font-family: @sailFont;
+        font-size: 54px;
+    }
+    font-family: @kiteFont;
+    font-size: 18px;
+    padding: 10px;
+}
+
+ul {
+    list-style-type: square;
+}
+
+.pull-right {
+    float: right;
+}
+
+.presents, .qual {
+    margin-left: 10px;
+}
+
