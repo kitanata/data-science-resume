@@ -7,9 +7,9 @@
 @crimFont: "Crimson Text";
 
 body {
-    background: #024C68;
+    //background: #024C68;
     font-family: @crimFont;
-    font-size: 16px;
+    font-size: 14px;
     line-height: 24px;
 }
 
@@ -17,14 +17,18 @@ body {
     width: 960px;
     margin: 20px auto 40px auto;
     background: white;
+    position: absolute;
+    left: 0;
+    top: 0;
+    margin-top: 0px;
 
-    -webkit-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 1);
-    box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 1);
+    //-webkit-box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 1);
+    //box-shadow: 0px 2px 5px 2px rgba(0, 0, 0, 1);
 
     .header {
         .first-letter {
             font-family: @sailFont;
-            font-size: 72px;
+            font-size: 58px;
         }
         font-family: @kiteFont;
         font-size: 22px;
@@ -61,6 +65,19 @@ body {
             padding-left: 30px;
             padding-bottom: 20px;
 
+            h2 {
+                margin-bottom: 5px;
+            }
+
+            h3 {
+                margin: 0;
+                padding: 0;
+                font-size: 14px;
+                font-family: @crimFont;
+                font-weight: 300;
+                text-align: right;
+            }
+
             ul {
                 padding-left: 20px;
             }
@@ -78,6 +95,14 @@ h3 {
     padding: 10px;
 }
 
+h4 {
+    padding: 10px;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: @crimFont;
+}
+
 ul {
     list-style-type: square;
 }
@@ -86,7 +111,11 @@ ul {
     float: right;
 }
 
-.presents, .qual {
+.qual {
     margin-left: 10px;
+}
+
+.presents {
+    margin-left: 0px;
 }
 

@@ -8,6 +8,12 @@
 
 module.exports = require(process.env['LINEMAN_MAIN']).config.extend('application', {
   //Override application configuration here. Common examples follow in the comments.
+  //
+  appTasks: {
+    common: ["less", "coffee", "jshint", "handlebars", "jst", "concat_sourcemap", "copy:dev", "images:dev", "webfonts:dev", "pages:dev"],
+    dev:    ["server", "watch"],
+    dist:   ["uglify", "cssmin", "copy:dist", "images:dist", "webfonts:dist", "pages:dist"]
+  }
 
   // API Proxying
   //

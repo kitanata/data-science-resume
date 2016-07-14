@@ -9,8 +9,8 @@
         <div class="sidebar">
             <div class="contact">
                 <h3><span class="first-letter">C</span>ontact</h3>
-                <p>1813 Pearl Street, Apartment 1
-                <br />Covington, Kentucky 41014</p>
+                <p>5440 Golden Cascade Drive
+                <br />Dublin, Ohio 43016</p>
 
                 <p>p. (407) 590-1416
                 <br />twit. @raymondchandler
@@ -36,26 +36,62 @@
                 <h3><span class="first-letter">S</span>kills</h3>
                 <ul>
                     <li>Python</li>
-                    <li>Ruby</li>
                     <li>JavaScript</li>
-                    <li>CoffeeScript</li>
-                    <li>HTML5/HAML</li>
-                    <li>CSS3/LESS/SASS</li>
+                    <li>C++</li>
+                    <li>HTML5/CSS3</li>
+                    <li>HAML/LESS/SASS</li>
+                    <li>Foundation / Bootstrap</li>
+                    <li>D3JS / CreateJS / ThreeJS</li>
+                    <li>OpenGL / GLSL</li>
+                    <li>Ruby</li>
+                    <li>PHP</li>
+                    <li>CoffeeScript / ES6</li>
                     <li>Latex</li>
-                    <li>Django</li>
-                    <li>Flask</li>
-                    <li>Rails</li>
-                    <li>Sinatra</li>
-                    <li>Backbone.js</li>
-                    <li>PostgreSQL</li>
-                    <li>SQLite3</li>
-                    <li>MongoDB</li>
-                    <li>Redis</li>
+                    <li>Django / Flask</li>
+                    <li>Rails / Sinatra</li>
+                    <li>Laravel / Lumen</li>
+                    <li>AngularJS / BackboneJS</li>
+                    <li>PostgreSQL / MariaDB</li>
+                    <li>MongoDB / Redis</li>
                     <li>Couchbase</li>
                     <li>GNU/Linux/BSD</li>
                     <li>Project Management</li>
-                    <li>Technical Strategy</li>
+                    <li>Technical Leadership</li>
                     <li>Startups and Entreprenuership</li>
+                </ul>
+            </div>
+
+            <div class="skills" style="margin-top: 130px;">
+                <h3><span class="first-letter">P</span>resentations</h3>
+
+                <h4>2016</h4>
+                <ul class="presents">
+                    <li>Agile for CFO's</li>
+                    <li>Intro to Genetic Programming with Rust</li>
+                </ul>
+
+                <h4>2015</h4>
+                <ul class="presents">
+                    <li>Super Intermediate Python3</li>
+                </ul>
+
+                <h4>2014</h4>
+                <ul class="presents">
+                    <li>Team Lead for Impact 100 Global Charity</li>
+                </ul>
+
+                <h4>2013</h4>
+                <ul class="presents">
+                    <li>Gamification: A Lesson From Board Game Design</li>
+                    <li>Introduction to Django REST Framework</li>
+                    <li>Introduction to Leaflet.js</li>
+                    <li>Super Advanced Python</li>
+                </ul>
+
+                <h4>2012</h4>
+                <ul class="presents">
+                    <li>Django Bootcamp (8-hour)</li>
+                    <li>Game Design Fundamentals Workshop</li>
                 </ul>
             </div>
         </div>
@@ -67,12 +103,39 @@
 
             <div class="row">
                 <div class="project">
-                    <h2>Co-Founder; CTO <span class="pull-right">TutorGen, Inc -- 2014 - Present</span></h2>
+                    <h2>Lead Game Designer <span class="pull-right">Artana Games Inc.</span></h2>
+                    <h3 class="dates">Aug 2014 - Present</h3>
+                    <ul>
+                        <li>Co-designed Corrupted Kingdoms with Dirk Knemeyer (2016 Release).</li>
+                        <li>Works closely with Conference teams to demo and playtest Artana games at Origins and Gencon Gaming conferences.</li>
+                        <li>Worked closely with playtesters and game developers to refine and perfect Corrupted Kingdoms gameplay, mechanics, and theme, leading up to release.</li>
+                        <li>Playtested, and provided feedback and testing for Tesla Vs. Edison (2015 Release).</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="project">
+                    <h2>Founder <span class="pull-right">Blueshift Technology</span></h2>
+                    <h3 class="dates">Jan 2015 - Present</h3>
+                    <ul>
+                        <li>Blueshift was a digital agency specializing in rapid software development and strategy advice for early stage startups in Columbus, Ohio.</li>
+                        <li>Response Soft LLC - Designed and developed an EMS/Fire Protocol Mobile application, now used by Columbus Fire Department and others.</li>
+                        <li>AC Karma Sports - Designed and developed online fantasy sports data analytics platform.</li>
+                        <li>i3 Control - Improved business, technical, and fund-raising strategies for 2016.</li>
+                        <li>Others - Developed lean Minimally Viable Products using modern Open Source technologies.</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="project">
+                    <h2>Co-Founder; CTO <span class="pull-right">TutorGen, Inc</span></h2>
+                    <h3 class="dates">Jan 2014 - Nov 2014</span></h3>
                     <ul>
                         <li>Co-Founded TutorGen, Inc. A company specializing in Machine-Learning-as-a-Service for educational technology software.</li>
-                        <li>Working with our partners at Carnegie Learning and Carnegie Mellon University to develop and test technolgoy.</li>
-                        <li>Guiding the technical specificiations of the platform into a highly scalable solution.</li>
-                        <li>Mentoring and coaching senior and junior developers on a variety of technologies.</li>
+                        <li>Guided the technical specifications of the platform into a highly scalable solution.</li>
+                        <li>Mentored and coached senior and junior developers on a variety of technologies.</li>
                         <li>Implemented Agile Software management practices to estimate product delivery.</li>
                         <li>Implemented best practices including TDD, Code Review, Pairing, CI, and automated deployments.</li>
                     </ul>
@@ -81,33 +144,34 @@
 
             <div class="row">
                 <div class="project">
-                    <h2>Founder <span class="pull-right">SpeakerMotion, Inc -- 2011 - 2013</span></h2>
+                    <h2>Founder <span class="pull-right">SpeakerMotion, Inc</span></h2>
+                    <h3 class="dates">2011 - 2013</h3>
                     <ul>
                         <li>Founded SpkrBar.com as a community for conference speakers to share themselves and their talks online in a collaborative environment.</li>
                         <li>Launched an online platform that makes it easy for event planners to manage, review, and schedule speaker submissions to their events.</li>
                         <li>Grew to 200 users and worked closely with 6 regional technical conferences to perfect the software.</li>
                         <li>Worked tirelessly to validate product-market fit, and performed extensive customer interviews.</li>
                         <li>Worked closely with local sales, marketing and design teams to grow business.</li>
-                        <li>Closed up shop due to low sales, poor market interest, and high customer acquisition costs.</li>
                     </ul>
                 </div>
             </div>
 
             <div class="row">
                 <div class="project">
-                    <h2>Founder <span class="pull-right">Agile Hog LLC -- 2011 - 2014</span></h2>
+                    <h2>Freelancer <span class="pull-right">Agile Hog LLC</span></h2>
+                    <h3 class="dates">2011 - 2014</h3>
                     <ul>
                         <li>Advised over 30 Columbus, Ohio startups and entrepreneurs on technical and business strategy.</li>
                         <li>Worked with small business teams on recruiting top talent, and implementing Agile practices.</li>
                         <li>Specializing in rapid prototype development in Ruby, Python, BackboneJS, and AngularJS.</li>
-                        <li>Closed up shop to co-found TutorGen, Inc. a prior client with funding and traction.</li>
                     </ul>
                 </div>
             </div>
 
             <div class="row">
                 <div class="project">
-                    <h2>Senior Web Developer <span class="pull-right">CallCopy Inc. -- 2011-2013</span></h2>
+                    <h2>Senior Web Developer <span class="pull-right">CallCopy Inc.</span></h2>
+                    <h3 class="dates">2011 - 2013</h3>
                     <ul>
                         <li>Reverse engineered front-end codebase from the ground up with minimal documentation.</li>
                         <li>Refactored a half working backbone.js implementation into a well crafted, well tested, body of code.</li>
@@ -120,7 +184,9 @@
 
             <div class="row">
                 <div class="project">
-                    <h2>Prototype Design Engineer <span class="pull-right">eTech Ohio -- 2009-2011</span></h2>
+                    <h2>Prototype Design Engineer <span class="pull-right">eTech Ohio</span></h2>
+                    <div style="clear:both;"></div>
+                    <h3 class="dates">2009 - 2011</h3>
                     <ul>
                         <li>Created prototype to address the need to securely log when private information of an Ohio resident is accessed by a state employee.</li>
                         <li>Created a online, visualization platform to analyze geospatially mapped educational statistics.</li>
@@ -133,7 +199,8 @@
 
             <div class="row">
                 <div class="project">
-                    <h2>Software Engineer I <span class="pull-right">Northrop Grumman -- 2007-2009</span></h2>
+                    <h2>Software Engineer I <span class="pull-right">Northrop Grumman</span></h2>
+                    <h3 class="dates">2007 - 2009</h3>
                     <ul>
                         <li>Integrated video game industry standards into mission critical visualization software.</li>
                         <li>Created a fixed pipeline, scene graph based, graphics engine built upon OpenGL 2.2.</li>
@@ -141,20 +208,6 @@
                         <li>Developed process for quickly loading and displaying very large, hi-resolution military grade maps.</p>
                     </ul>
                 </div>
-            </div>
-
-            <div class="row">
-                <h3><span class="first-letter">P</span>resentations</h3>
-                <ul class="presents">
-                    <li>Southwest Ohio Givecamp 2014 - Team Lead for Impact 100 Global Charity</li>
-                    <li>PyOhio 2014 - Communications Director and Board Member</li>
-                    <li>Columbus Code Camp 2013 - <a href="http://www.spkrbar.com/talk/45">Gamification: A Lesson From Board Game Design</a></li>
-                    <li>Central Ohio Python Group, September 2013 - <a href="http://www.spkrbar.com/talk/99">Introduction to Django REST Framework</a></li>
-                    <li>Columbus JavaScript Group, August 2013 - <a href="http://www.spkrbar.com/talk/9">Introduction to Leaflet.js</a></li>
-                    <li>PyOhio 2013 - <a href="http://www.spkrbar.com/talk/11">Super Advanced Python</a></li>
-                    <li>PyOhio 2012 - Django Bootcamp (8-hour)</li>
-                    <li>Ohio Educational Technology Convention 2012 - Game Design Fundamentals Workshop</li>
-                </ul>
             </div>
         </div>
         <div style="clear:both;"></div>
